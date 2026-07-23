@@ -2,6 +2,10 @@
 
 Next.js + React + Tailwind CSS frontend for the Leesee fullstack blog technical test.
 
+## Public Repository
+
+- GitHub: `https://github.com/williamivuni-prog/leesee-blog-frontend`
+
 ## Features
 
 - App Router project using Next.js 16
@@ -46,13 +50,12 @@ npm run build
 3. Add this environment variable:
 
 ```bash
-NEXT_PUBLIC_API_URL=https://your-backend-app.herokuapp.com
+NEXT_PUBLIC_API_URL=https://backend-eight-green-11.vercel.app
 ```
 
 4. Deploy.
 
 ## Deployment URL
 
-Replace this after deployment:
-
-- Frontend: `https://your-vercel-app.vercel.app`
+- Frontend: `https://frontend-seven-puce-33.vercel.app`
+- Backend API: `https://backend-eight-green-11.vercel.app`
